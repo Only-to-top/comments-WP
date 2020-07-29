@@ -1,5 +1,11 @@
 # Вывод комментариев WordPress
 
+### Вывод шаблона comments.php
+
+```php
+<?php comments_template(); ?>
+```
+
 ```php
 <div class="row">
 
